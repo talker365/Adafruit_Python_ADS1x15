@@ -7,7 +7,7 @@ To install the library from source (recommended) run the following commands on a
 
     sudo apt-get install git build-essential python-dev
     cd ~
-    git clone https://github.com/adafruit/Adafruit_Python_ADS1x15.git
+    git clone https://github.com/talker365/Adafruit_Python_ADS1x15.git
     cd Adafruit_Python_ADS1x15
     sudo python setup.py install
 
